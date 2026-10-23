@@ -31,7 +31,8 @@ This project explores a curated dataset of Netflix titles to examine movie trend
 
 ```text
 netflix-movie-analysis/
-├── netflix_data.csv       # Raw dataset containing Netflix movies and TV shows
-├── netflix_m.ipynb        # Jupyter notebook with step-by-step EDA & visualizations
-├── requirements.txt       # Python dependencies required to run the notebook
-└── README.md              # Project documentation
+├── dataset/
+│   └── netflix_data.csv       # Raw dataset containing Netflix movies and TV shows
+├── netflix_m.ipynb            # Jupyter notebook with step-by-step EDA & visualizations
+├── requirements.txt           # Python dependencies required to run the notebook
+└── README.md                  # Project documentation
